@@ -5,5 +5,4 @@
 
 	//animation
 	new WOW().init();
-
 })(jQuery);
